@@ -36,7 +36,7 @@ This tool is built for:
 ### Install from PyPI
 
 ```bash
-pip install webtech
+pip install sporime-webtech
 ```
 ## Install from GitHub
 
