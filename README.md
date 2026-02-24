@@ -41,14 +41,14 @@ pip install sporime-webtech
 ## Install from GitHub
 
 ```bash
-pip install git+https://github.com/SPORIMEstudio/webtech.git
+pip install git+https://github.com/SPORIMEstudio/WebTech.git
 ```
 ## Clone & Install   
 
 ```bash
-git clone https://github.com/SPORIMEstudio/webtech.git
+git clone https://github.com/SPORIMEstudio/WebTech.git
 cd webtech
-pip install
+pip install . 
 ```
 ## ⚡ Usage
 
