@@ -1,5 +1,5 @@
 # Web Tech
-
+--- 
 <p align="center">
   <b>Web Tech</b><br>
   Ethical Web Technology Scanner for Developers & Security Researchers
